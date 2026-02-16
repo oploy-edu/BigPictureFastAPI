@@ -18,6 +18,3 @@ venv/
 .DS_Store
 .idea
 .vscode
-
-.schedule.json
-.schedule2.json
